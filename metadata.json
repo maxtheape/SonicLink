@@ -1,0 +1,7 @@
+{
+  "name": "SonicLink Visualizer",
+  "description": "Real-time remote audio visualization and decibel metering using WebRTC and Gemini AI for acoustic environment analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
